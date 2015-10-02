@@ -1,0 +1,21 @@
+.....Manual for Crispy-Z-bookmarks manager...................
+
+****  ensure you are running python2.7 or below
+ 	Linux and Mac users
+1. invoke the terminal
+2. run the bookmarks.py file by typing python bookmarks.py in the terminal
+3. once the GUI is up,use it to manage your bookmarks
+4. To import it into your project, just include the import bookmarks line in
+your python source
+
+
+
+	Windows users
+1. Run the windows command prompt          
+2. run the bookmarks.py file by typing python bookmarks.py in the command 
+	prompt
+3. once the GUI is up,use it to manage your bookmarks
+4. To import it into your project, just include the import bookmarks line in  
+your python source
+
+
