@@ -139,7 +139,10 @@ bt3.pack(expand=YES,side=BOTTOM,pady=30)
 txt=Label(root,text='Author -- Jeffrey Macharia')
 txt.config(fg='green',font=('times',14,'bold'))
 txt.pack()
-root.mainloop()
+
+
+if __name__=="__main__":
+	root.mainloop()
 
 
 

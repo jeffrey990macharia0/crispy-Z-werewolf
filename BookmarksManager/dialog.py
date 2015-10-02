@@ -1,3 +1,4 @@
+
 from Tkinter import *
 from tkCommonDialog import Dialog
 #
@@ -70,6 +71,4 @@ values=['a','b','c']
 # test stuff
 
 if __name__ == "__main__":
-	for value in values:
-		print "info", showinfo("Spam", value)
-   
+	showinfo("succesful","Everythings is okay")
